@@ -1,1 +1,0 @@
-CREATE TABLE users(email varchar(50) PRIMARY  KEY)

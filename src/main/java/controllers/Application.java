@@ -1,4 +1,4 @@
-package models.controllers;
+package controllers;
 
 import javax.ws.rs.ApplicationPath;
 
